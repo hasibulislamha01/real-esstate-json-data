@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "image_url": "/images/familyHouse.jpg",
+        "image_url": "https://ibb.co/DWf8Jpn",
         "estate_title": "Beautiful Family Home in Suburbia",
         "segment_name": "Residential",
         "description": "This charming single family home offers spacious living areas, a modern kitchen, and a lovely backyard.",
@@ -17,7 +17,7 @@
     },
     {
         "id": "2",
-        "image_url": "/images/townhouse.jpg",
+        "image_url": "https://ibb.co/48FTr8W",
         "estate_title": "Modern Townhouse in Urban Neighborhood",
         "segment_name": "Residential",
         "description": "This stylish townhouse features contemporary design, multiple floors, and convenient access to urban amenities.",
@@ -33,7 +33,7 @@
     },
     {
         "id": "3",
-        "image_url": "/images/apartment.jpg",
+        "image_url": "https://ibb.co/rG5QYjT",
         "estate_title": "Cozy Apartment in Downtown",
         "segment_name": "Residential",
         "description": "This cozy apartment offers comfortable living space, modern amenities, and a convenient location in the heart of downtown.",
@@ -49,7 +49,7 @@
     },
     {
         "id": "4",
-        "image_url": "/images/studentSpce.jpg",
+        "image_url": "https://ibb.co/M8prYr2",
         "estate_title": "Student Housing Near University Campus",
         "segment_name": "Student Housing",
         "description": "This student housing complex offers furnished apartments with shared common areas, study rooms, and easy access to the university campus.",
@@ -65,7 +65,7 @@
     },
     {
         "id": "5",
-        "image_url": "/images/senior.jpg",
+        "image_url": "https://ibb.co/VmJkpYh",
         "estate_title": "Senior Living Community - Tranquil Haven",
         "segment_name": "Senior Living",
         "description": "Tranquil Haven is a senior living community designed for comfort and convenience, offering various amenities and services tailored to seniors' needs.",
@@ -81,7 +81,7 @@
     },
     {
         "id": "6",
-        "image_url": "/images/rental.jpg",
+        "image_url": "https://ibb.co/HV0bzp2",
         "estate_title": "Beachfront Vacation Rental - Coastal Escape",
         "segment_name": "Vacation Rental",
         "description": "Coastal Escape is a stunning beachfront vacation rental offering breathtaking ocean views, luxury amenities, and easy access to the beach.",
@@ -96,3 +96,8 @@
         ]
     }
 ]
+
+
+
+
+
